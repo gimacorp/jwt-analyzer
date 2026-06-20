@@ -22,7 +22,7 @@ A Python CLI tool that decodes a JWT and checks it for the most common real-worl
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/jwt-analyzer.git
+git clone https://github.com/gimacorp/jwt-analyzer.git
 cd jwt-analyzer
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
